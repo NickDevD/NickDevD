@@ -10,7 +10,7 @@ I'm a computer science student and I'm looking forward to improving my programmi
 
 ## Working on: 🚀
 
-* Leraning Java☕;
+* Learning Java☕;
 * Practicing, every day📚
 
 ## Languages and Tools

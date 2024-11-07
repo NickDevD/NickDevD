@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=NickDevD&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## About Me:
 Hi, I’m @NickDevD!
 I'm a computer science student and I'm looking forward to improving my programming skills.

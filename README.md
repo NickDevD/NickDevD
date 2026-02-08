@@ -46,14 +46,16 @@ Confira alguns dos meus projetos que demonstram minhas habilidades e a paixão p
 - Link para o Repositório: https://github.com/NickDevD/Api_Consulta_CEP.git 
 
 
-### 2. CRUD_JSP_Java
-- Descrição: Sistema CRUD completo para gerenciamento de clientes, implementado com Java Web, MySQL e conteinerização via Docker.
+### 2. SAI - Sistema de Agendamento Institucional
+- Descrição: O SAI (Sistema de Agendamento Institucional) é uma aplicação moderna desenvolvida com uma arquitetura microservice-like que separa completamente o Frontend e o Backend.
 
-- Tecnologias: Java, JSP, MySQL, Docker, Docker Compose, HTML, CSS;
+- Backend (API): Construída com Spring Boot 3.x e Java, responsável pela lógica de negócios, persistência de dados e segurança (JWT).
 
-- Destaques:  Java server pages para desenvolvimento web, uso de iframe para navegação fluida entre páginas html, MySQL para persistência de dados e CI/CD básico com GitHub Actions.
+- Frontend (Cliente) Em Desenvolvimento: Construída com React e TypeScript, utilizando Material UI para uma interface de usuário responsiva e profissional.
 
-- Link para o Repositório: https://github.com/NickDevD/Crud_Java_JSP.git
+- Banco de Dados: PostgreSQL, com versionamento de schema via Flyway rodando via Docker.
+
+- Link para o Repositório: https://github.com/NickDevD/SAI_API---Sistema-de-Agendamento-Institucional.git
 
 ## 🌱 Meus Interesses e Próximos Passos
 Estou sempre buscando expandir meu conhecimento e minhas habilidades. Meus próximos passos incluem aprofundar-me em Java-SpringBoot, Cloud(AWS/Azure/GCP) e Docker .

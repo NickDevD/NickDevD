@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/_%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/nickdeveloper/)
 [![HackerRank](https://img.shields.io/badge/_%20HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white&labelColor=000000)](https://www.hackerrank.com/profile/nick_developerd1)
 [![GitHub](https://img.shields.io/badge/_%20NickDevD-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=000000)](https://github.com/NickDevD)
-![Visitors](https://komarev.com/ghpvc/?username=NickDevD&style=flat-square&color=00ff88&label=VISITORS&abbreviated=true)
+
 
 </div>
 
